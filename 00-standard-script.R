@@ -1,7 +1,7 @@
 ## A simple R script
 
 # Computation
-4+4
+4+4 
 
 # Exemplary assignment
 z <- "hello world"
@@ -15,4 +15,3 @@ y <- c(1,4,9,16,50)
 
 # Plotting the data
 plot(x,y)
-
